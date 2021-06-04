@@ -27,4 +27,4 @@ Results
 The main findings of the code can be found at the post available here: https://yagiz-dursun.medium.com/learning-this-language-will-make-you-earn-morde-money-as-developer-39add7f40d1c
 
 Licensing, Authors, Acknowledgements
-Must give credit to Stack Overflow for the data.
+Must give credit to Stack Overflow for the data. 
